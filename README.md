@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction App
 
-This project is a Machine Learning-based web application that predicts the risk of heart disease based on patient medical data. The model is trained using clinical parameters and deployed using Streamlit for an interactive user interface.
+This project is a Deep Learning-based web application that predicts the risk of heart disease based on patient medical data. The model is trained using clinical parameters and deployed using Streamlit for an interactive user interface.
 
 ## 🚀 Live Demo
 👉 https://cherrychills-heart-disease-predictor-v3.hf.space
