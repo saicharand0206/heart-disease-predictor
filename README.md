@@ -33,4 +33,7 @@ The model uses the following parameters:
 - Number of Major Vessels (0–3)
 - Thal (0–3)
 
+## 📓 Google Colab Notebook
 
+👉 You can view the model training and implementation here:  
+https://colab.research.google.com/drive/1ke08iqa1n60xc6k1NHFY9B7Z1yQEEAIM?usp=sharing
